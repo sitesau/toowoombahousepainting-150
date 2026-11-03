@@ -1,0 +1,22 @@
+{
+  "wheel_id": 702,
+  "structure": "umbrella",
+  "slug": "toowoombahousepainting-150",
+  "project": "house-painting-toowoomba-c2f305cea45c43a00d6b282429bec87e5b10ec",
+  "parent_t1_ref": "toowoombahousepainting-005",
+  "node_role": "buffer",
+  "money_target": "toowoombahousepainting.com.au",
+  "primary_kw": "house painting toowoomba",
+  "intended_url": "https://aumedia.neocities.org/house-painting-toowoomba-c2f305cea45c43a00d6b282429bec87e5b10ec/",
+  "tier": "T2",
+  "writeback_nonce": "3889dbcbf7d1e89b",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/house-painting-toowoomba-005/",
+      "anchor": "House Painting Toowoomba: A Practical Planning Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
